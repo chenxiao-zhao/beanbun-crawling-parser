@@ -1,6 +1,6 @@
 # beanbun-crawling-parser
 
-##简介
+## 简介
 
 学习使用beanbun，通过一个简单的crawling和parser了解爬虫网页概念和使用方法
 
