@@ -1,0 +1,18 @@
+2019-04-11 17:02:34 pid:15410 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:02:49 pid:15426 Workerman[queue.php] stop 
+2019-04-11 17:02:49 pid:15426 Workerman[queue.php] not run
+2019-04-11 17:02:51 pid:15430 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:09:34 pid:15985 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:10:05 pid:16001 Workerman[queue.php] stop 
+2019-04-11 17:10:05 pid:16001 Workerman[queue.php] not run
+2019-04-11 17:10:07 pid:16006 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:10:20 pid:16024 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:10:37 pid:16042 Workerman[queue.php] start in DAEMON mode
+2019-04-11 17:13:14 pid:16184 Workerman[start.php] start in DAEMON mode
+2019-04-11 17:14:19 pid:16263 Workerman[start.php] stop 
+2019-04-11 17:14:19 pid:16263 Workerman[start.php] is stopping ...
+2019-04-11 17:14:19 pid:16186 Workerman[start.php] stopping ...
+2019-04-11 17:14:24 pid:16263 Workerman[start.php] stop fail
+2019-04-11 17:15:06 pid:16286 Workerman[queue.php] stop 
+2019-04-11 17:15:06 pid:16286 Workerman[queue.php] not run
+2019-04-11 17:15:17 pid:16302 Workerman[queue.php] start in DAEMON mode
